@@ -54,6 +54,7 @@
 ---
 
 ### 🐍 GitHub Contribution Snake
+<img src="https://raw.githubusercontent.com/YahiaMohamad99/YahiaMohamad99/main/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
 
-<img src="https://github.com/YahiaMohamad99/YahiaMohamad99/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation dark mode" />
+
 
